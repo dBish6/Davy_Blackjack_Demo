@@ -5,9 +5,9 @@
   "description": "A advanced blackjack game called Davy Blackjack that was originally used for my Casino app; Quest Casino version 1.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dBish6/Davy_Blackjack"
+    "url": "https://github.com/dBish6/Davy_Blackjack_Demo"
   },
-  "homepage": "https://dbish6.github.io/React_Calculator_App/",
+  "homepage": "https://dbish6.github.io/Davy_Blackjack_Demo/",
   "os": [
     "linux",
     "!win32",
