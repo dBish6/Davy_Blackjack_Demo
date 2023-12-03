@@ -7,6 +7,7 @@
     "type": "git",
     "url": "https://github.com/dBish6/Davy_Blackjack"
   },
+  "homepage": "https://dbish6.github.io/React_Calculator_App/",
   "os": [
     "linux",
     "!win32",
