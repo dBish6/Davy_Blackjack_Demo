@@ -176,7 +176,6 @@ const GameStartModal = (props) => {
             </Text>
 
             {!props.show.canCancel && (
-              // FIXME:
               <Link onClick={() => window.history.back(-1)} variant="simple">
                 Go Back
               </Link>

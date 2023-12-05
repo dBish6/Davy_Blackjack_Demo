@@ -5,7 +5,6 @@ import { useRef, useEffect } from "react";
 import {
   Container,
   Heading,
-  Link,
   Image,
   IconButton,
   Flex,
@@ -95,9 +94,7 @@ const RulesOverlay = (props) => {
                 }}
                 ml="4rem"
               >
-                {/* <Link as={ReactLink} to="/home"> */}
                 <Image src={DiceLogo} alt="Quest Casino Small Logo" />
-                {/* </Link> */}
               </Box>
               <Heading
                 variant="blackjack"
