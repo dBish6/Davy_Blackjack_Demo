@@ -14,9 +14,12 @@
     "!win64"
   ],
   "dependencies": {
-    "@chakra-ui/react": "^2.8.2",
+    "@chakra-ui/react": "^2.5.5",
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
+    "@fontsource/fugaz-one": "^5.0.17",
+    "@fontsource/hind-siliguri": "^5.0.8",
+    "@fontsource/lobster": "^5.0.17",
     "@hookform/error-message": "^2.0.1",
     "@reduxjs/toolkit": "^1.9.7",
     "framer-motion": "^10.16.12",

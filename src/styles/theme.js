@@ -90,7 +90,7 @@ const blackjackTheme = extendTheme({
   fonts: {
     body: `'Hind Siliguri', sans-serif`,
     heading: `'Lobster', cursive`,
-    roboto: `'Roboto', sans-serif`,
+    // roboto: `'Roboto', sans-serif`,
     fugaz: `'Fugaz One', cursive`,
   },
   config: {

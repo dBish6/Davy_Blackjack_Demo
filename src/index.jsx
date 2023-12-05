@@ -7,6 +7,10 @@ import { Provider } from "react-redux";
 
 import App from "./App";
 
+import "@fontsource/hind-siliguri";
+import "@fontsource/lobster";
+import "@fontsource/fugaz-one";
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <ChakraProvider theme={blackjackTheme}>
