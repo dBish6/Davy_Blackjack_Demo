@@ -2,7 +2,7 @@
 
 This is the demo for Davy Blackjack, meaning that this isn't the official version. You can find the 'real' version in my Quest Casino app version 1.2.8. This demo served as a showcase for the game without the need for authentication, a balance and more from the official game. You can find the current version and change log of the demo at `src/components/rulesOverlay/ChangeLog.jsx`.
 
-This demo is also presented in my [portfolio](https://davidbishop.info/).
+This demo was used to present it in my [portfolio](https://davidbishop.info/).
 
 ## Tech Stack
 A `React` application that utilizes `Redux` and `Chakra UI` for state management and styling.
