@@ -69,7 +69,7 @@ const BettingButtons = (props) => {
         w={bet.count > 0 ? "100%" : "154.883px"}
         zIndex="1"
       >
-        {props.wallet <= 5 ? "Insufficient Funds" : `Bet: $${bet.count}`}
+        {props.wallet < 5 ? "Insufficient Funds" : `Bet: $${bet.count}`}
       </Button>
 
       <Button
