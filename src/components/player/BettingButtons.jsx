@@ -35,10 +35,10 @@ const BettingButtons = (props) => {
       initial="hidden"
       animate="visible"
       isDisabled={
-        props.isDealerTurn || props.showcaseRunning || props.wallet <= 5
+        props.isDealerTurn || props.showcaseRunning || props.wallet < 5
       }
       aria-disabled={
-        props.isDealerTurn || props.showcaseRunning || props.wallet <= 5
+        props.isDealerTurn || props.showcaseRunning || props.wallet < 5
       }
       position="relative"
       minW="255px"
