@@ -1,6 +1,6 @@
 # Davy_Blackjack_Demo
 
-This is the demo for Davy Blackjack, meaning that this isn't the official version. You can find the 'real' version in my Quest Casino app version 1.2.8. This demo served as a showcase for the game without the need for authentication, a balance and more from the official game. You can find the current version and change log of the demo at `src/components/rulesOverlay/ChangeLog.jsx`.
+This is the demo for Davy Blackjack, meaning that this isn't the official version. You can find the 'real' version in my [Quest Casino app version 1.2.8](https://github.com/dBish6/Quest_Casino_Full-Stack_App/tree/quest_casino_v1.2.8). This demo served as a showcase for the game without the need for authentication, a balance and more from the official game. You can find the current version and change log of the demo at `src/components/rulesOverlay/ChangeLog.jsx`.
 
 This demo was used to present it in my [portfolio](https://davidbishop.info/).
 
